@@ -973,7 +973,7 @@ zycietoprzygoda.pl##[class^="tws_"]
 ||dpcdn.pl/*/bg.jpg$image,domain=dobreprogramy.pl
 ||a.ib.gazeta.pl^$image
 ||news.targeo.pl/oarm.php$xmlhttprequest,domain=mapa.targeo.pl
-||ty0lm9uz.onet.pl/YnVpbGQv$script,domain=~plejada.pl
+!||ty0lm9uz.onet.pl/YnVpbGQv$script,domain=~plejada.pl
 !
 !
 !---------------------------------Multi Regex----------------------------------!
